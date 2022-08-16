@@ -2,7 +2,10 @@
 <em>programmer:</em> A person who fixed a problem that you don't know you have, in a way you don't understand
 <br>
 <br>
-- I’m interested in backend programminng and game development
+- I’m interested in:
+-backend programminng and game development
+-UI and UX development
+
 <br>
 - I’m currently learning HTML and CSS
 
